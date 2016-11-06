@@ -1,3 +1,6 @@
 [submodule "PiBox"]
 	path = PiBox
 	url = https://github.com/squgeim/PiBox
+[submodule "Routine-App"]
+	path = Routine-App
+	url = https://github.com/deepsadhi/Routine-App
