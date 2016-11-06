@@ -4,3 +4,6 @@
 [submodule "Routine-App"]
 	path = Routine-App
 	url = https://github.com/deepsadhi/Routine-App
+[submodule "SMS-Banking-in-Java--Minor-Project-"]
+	path = SMS-Banking-in-Java--Minor-Project-
+	url = https://github.com/samundra/SMS-Banking-in-Java--Minor-Project-
