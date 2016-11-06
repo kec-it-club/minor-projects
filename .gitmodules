@@ -7,3 +7,6 @@
 [submodule "SMS-Banking-in-Java--Minor-Project-"]
 	path = SMS-Banking-in-Java--Minor-Project-
 	url = https://github.com/samundra/SMS-Banking-in-Java--Minor-Project-
+[submodule "Quick-Insurance-Service"]
+	path = Quick-Insurance-Service
+	url = https://github.com/nabinkhadka/Quick-Insurance-Service
