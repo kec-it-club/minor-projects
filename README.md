@@ -8,6 +8,7 @@ Minor Projects done by students of Kathmandu Engineering College
 - [Photon](https://github.com/amitness/photon)
 - [PiBox](https://github.com/squgeim/PiBox)
 - [Product Comparision System](https://github.com/suraviregmi/PCS)
+- [Restaurant Reservation System](https://github.com/biratsapkota/restaurant-reservation)
 - [Routine App](https://github.com/deepsadhi/Routine-App)
 
 ## Contribution
