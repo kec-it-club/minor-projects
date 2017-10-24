@@ -10,6 +10,7 @@ Minor Projects done by students of Kathmandu Engineering College
 - [Product Comparision System](https://github.com/suraviregmi/PCS)
 - [Restaurant Reservation System](https://github.com/biratsapkota/restaurant-reservation)
 - [Routine App](https://github.com/deepsadhi/Routine-App)
+- [Job Tracker](https://github.com/Kamalpaneru/jobtracker)
 
 ## Contribution
 Fork and add your project. Please maintain the list in alphabetical order.
