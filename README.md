@@ -7,6 +7,7 @@ Minor Projects done by students of Kathmandu Engineering College
 - [Disease Checker](https://github.com/sthpravin/diseasechecker)
 - [Email on Voice](https://github.com/subedisapana/emailonvoice-django)
 - [Job Tracker](https://github.com/Kamalpaneru/jobtracker)
+- [Melody](https://github.com/samip584/melody_vlc)
 - [Meta Music](https://github.com/unique1o1/Meta-Music)
 - [Movie Success Predictor](https://github.com/therj/msp-minor)
 - [Nazar](https://github.com/aryaminus/nazar)
@@ -18,4 +19,4 @@ Minor Projects done by students of Kathmandu Engineering College
 
 
 ## Contribution
-Fork and add your project. Please maintain the list in alphabetical order.
+Fork and add your project. Please maintain the list in **alphabetical order**.
